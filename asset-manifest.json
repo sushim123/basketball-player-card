@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basketball-player-card/static/css/main.3bca6e2d.css",
+    "main.js": "/basketball-player-card/static/js/main.7fc80b53.js",
+    "static/js/453.13590547.chunk.js": "/basketball-player-card/static/js/453.13590547.chunk.js",
+    "static/media/photo_3_2023-02-26_19-15-26.jpg": "/basketball-player-card/static/media/photo_3_2023-02-26_19-15-26.0b3511f0f69295a25431.jpg",
+    "index.html": "/basketball-player-card/index.html",
+    "main.3bca6e2d.css.map": "/basketball-player-card/static/css/main.3bca6e2d.css.map",
+    "main.7fc80b53.js.map": "/basketball-player-card/static/js/main.7fc80b53.js.map",
+    "453.13590547.chunk.js.map": "/basketball-player-card/static/js/453.13590547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bca6e2d.css",
+    "static/js/main.7fc80b53.js"
+  ]
+}
