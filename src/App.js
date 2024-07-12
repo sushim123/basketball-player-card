@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import BasketballPlayerCard from './BasketballPlayerCard';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Basketball Player Card</h1>
+      <BasketballPlayerCard 
+        name="SUSHIM"
+        image="basketball-player-card\src\images\photo_3_2023-02-26_19-15-26.jpg" 
+        position="Forward"
+        stats={{ 
+          pointsPerGame: 27, 
+          assistsPerGame: 10, 
+          reboundsPerGame: 19.6 
+        }}
+      />
     </div>
   );
 }
