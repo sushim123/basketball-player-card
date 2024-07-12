@@ -16,4 +16,20 @@ Make sure you have Node.js installed. Then, install dependencies using npm:
 
 ```bash
 npm install
-
+```
+3. **Running the Project**
+```
+   npm start
+```
+4. **(Project Structure)**
+ ```
+├── public/           
+├── src/             
+│   ├── components/   
+│   ├── images/       
+│   ├── App.js        
+│   ├── index.js      
+│   └── ...          
+├── README.md         
+└── package.json      
+```
